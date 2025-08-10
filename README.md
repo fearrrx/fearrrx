@@ -44,7 +44,6 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://discord.com/users/.fearrr" target="_blank">
     <img src="https://img.shields.io/badge/Discord-.fearrr-272a30?style=for-the-badge&logo=discord&logoColor=d1d5db" />
   </a>
   <a href="https://www.instagram.com/swrlzxx" target="_blank">

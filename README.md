@@ -1,63 +1,36 @@
-<!-- Profile README.md -->
+<h1 align="center">Yo im fearrr (aka swrlzxx)</h1>
+<h3 align="center">17 yo. I can Graphics design, UI/Ux design, Music production, web developer, Discord Bot developer. Hit me up if you wanna work. No bs. and yes i sometimes use AI 🙄</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=500&lines=yo+im+fearrr;Graphics+Designer;UI%2FUX+Designer;Music+Producer;Web+Developer;Discord+Bot+Developer" alt="Typing Animation" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fearrrx&label=Profile%20views&color=0e75b6&style=flat" alt="fearrrx" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fearrrx" alt="fearrrx" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- I’m currently working on **nothing lol**
+
+- I’m currently learning **everything (i like to learn)**
+
+- All of my projects are available at [my github (soon there will be a portfolio lol)](my github (soon there will be a portfolio lol))
+
+- Ask me about **anything (On discord thats where am active the most))**
+
+- How to reach me **discord and instagram**
+
+- Fun fact **idk**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/fearrrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fearrrx" height="30" width="40" /></a>
+<a href="https://instagram.com/swrlzxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swrlzxx" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <em>17 yo. I can Graphics design, UI/Ux design, Music production, web developer, Discord Bot developer.  
-  Hit me up if you wanna work. No bs.</em>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <strong style="font-size: 18px;">and yes i sometimes use AI 🙄</strong>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fearrrx&show_icons=true&locale=en&layout=compact" alt="fearrrx" /></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,python,nodejs&theme=dark" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fearrrx&show_icons=true&locale=en" alt="fearrrx" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fearrrx&" alt="fearrrx" /></p>
 
-<h1>I use these platforms lol</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Codeanywhere-16181b?style=for-the-badge&logo=Codeanywhere&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/VSCode%20Web-1b1d21?style=for-the-badge&logo=visualstudiocode&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/GitHub%20Codespaces-272a30?style=for-the-badge&logo=github&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Google%20Colab-202124?style=for-the-badge&logo=googlecolab&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-42454c?style=for-the-badge&logo=google&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/ChatGPT-535863?style=for-the-badge&logo=openai&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Gemini-272a30?style=for-the-badge&logo=google&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Claude-42454c?style=for-the-badge&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Grok-1b1d21?style=for-the-badge&logoColor=d1d5db" />
-</p>
-
----
-
-<h1>📌 Current Project</h1>
-> idk none atm lmao (im bored)
-
----
-
-<h1> Find me on</h1>
-<p align="center">
-    <img src="https://img.shields.io/badge/Discord-.fearrr-272a30?style=for-the-badge&logo=discord" />
-  </a>
-  <a href="https://www.instagram.com/swrlzxx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@swrlzxx-1b1d21?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
-
-<!-- ======= Footer wave animation (GitHub-friendly SVG) ======= -->
-<div align="center" style="line-height:0;">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="90">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0%" stop-color="#0b1224"/>
-        <stop offset="100%" stop-color="#131827"/>
-      </linearGradient>
-    </defs>
-
-  </svg>
-</div>

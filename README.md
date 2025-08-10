@@ -44,6 +44,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
+  <a href="https://discord.com/users/.fearrr" target="_blank">
     <img src="https://img.shields.io/badge/Discord-.fearrr-272a30?style=for-the-badge&logo=discord&logoColor=d1d5db" />
   </a>
   <a href="https://www.instagram.com/swrlzxx" target="_blank">
@@ -57,3 +58,25 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=D1D5DB&center=true&vCenter=true&width=600&lines=HTML+%26+CSS;JavaScript+%26+TypeScript;React+%26+Node.js;Python;UI%2FUX+Design;Music+Production;Discord+Bot+Dev;Quantum+Computing+Enthusiast" alt="Skills Animation" />
 </p>
+
+<!-- ======= Footer wave animation (GitHub-friendly SVG) ======= -->
+<div align="center" style="line-height:0;">
+  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="90">
+    <defs>
+      <linearGradient id="g1" x1="0" x2="1">
+        <stop offset="0%" stop-color="#0b1224"/>
+        <stop offset="100%" stop-color="#131827"/>
+      </linearGradient>
+    </defs>
+
+    <!-- Base shape with simple animate on the 'd' attribute.
+         This kind of inline SVG <animate> usually works in GitHub READMEs. -->
+    <path fill="url(#g1)" d="M0 40 C150 80 350 0 600 40 C850 80 1050 10 1200 40 L1200 120 L0 120 Z">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+          M0 40 C150 80 350 0 600 40 C850 80 1050 10 1200 40 L1200 120 L0 120 Z;
+          M0 30 C180 0 360 70 600 40 C840 10 1020 70 1200 30 L1200 120 L0 120 Z;
+          M0 40 C150 80 350 0 600 40 C850 80 1050 10 1200 40 L1200 120 L0 120 Z" />
+    </path>
+  </svg>
+</div>

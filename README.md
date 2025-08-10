@@ -3,12 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=500&lines=yo+im+fearrr;Graphics+Designer;UI%2FUX+Designer;Music+Producer;Web+Developer;Discord+Bot+Developer" alt="Typing Animation" />
 </p>
-
-<p align="center">
-  <!-- Replace below GIF link with your own animated GIF -->
-  <img src="https://media.giphy.com/media/QvpK5J3fRh6K0/giphy.gif" alt="Profile GIF" width="200" style="border-radius: 50%;" />
-</p>
-
 <p align="center">
   <em>17 yo. I can Graphics design, UI/Ux design, Music production, web developer, Discord Bot developer. Hit me up if you wanna work. No bs</em>
 </p>

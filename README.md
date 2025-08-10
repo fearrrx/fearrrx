@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocIcwcwDfVOkvXor7yL1EW_8iWtwg9qZremeu1Fhs60uikt1qPA=s288-c-no" alt="Profile GIF" width="200" style="border-radius: 50%;" />
+  <!-- Replace below GIF link with your own animated GIF -->
+  <img src="https://media.giphy.com/media/QvpK5J3fRh6K0/giphy.gif" alt="Profile GIF" width="200" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Programming languages I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,python,nodejs&theme=dark" />
@@ -22,7 +23,7 @@
 
 ---
 
-## 🛠 Platforms I Use
+## Platforms I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codeanywhere-16181b?style=for-the-badge&logo=Codeanywhere&logoColor=d1d5db" />
@@ -43,7 +44,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://discord.com/users/yourdiscordid" target="_blank">

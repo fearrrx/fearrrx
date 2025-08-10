@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=500&lines=yo+im+fearrr;Graphics+Designer;UI%2FUX+Designer;Music+Producer;Web+Developer;Discord+Bot+Developer" alt="Typing Animation" />
 </p>
 <p align="center">
-  <em>17 yo. I can Graphics design, UI/Ux design, Music production, web developer, Discord Bot developer. Hit me up if you wanna work. No bs. `and yes i sometimes use AI 🙄`</em>
+  <em>17 yo. I can Graphics design, UI/Ux design, Music production, web developer, Discord Bot developer. Hit me up if you wanna work. No bs. **and yes i sometimes use AI 🙄**</em>
 </p>
 
 <p align="center">

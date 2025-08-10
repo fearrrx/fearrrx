@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <em>17 yo. I can Graphics design, UI/Ux design, Music production, web developer, Discord Bot developer. Hit me up if you wanna work. No bs. 
-    > and yes i sometimes use AI 🙄</em>
+     and yes i sometimes use AI 🙄</em>
 </p>
 
 <p align="center">

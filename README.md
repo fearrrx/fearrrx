@@ -5,7 +5,7 @@
 
   <!-- Typing Effect -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=600&lines=yo+im+fearrr;17+yo.+I+do+Graphics+design,+UI%2FUX,+Music,+Web+Dev,+Bots;Hit+me+up+if+u+wanna+work.+No+bs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=600&lines=yo+im+fearrr(aka swrlzxx) ;17+yo.does+Graphics+design,+UI%2FUX,+Music,+Web+Dev,+Bots;Hit+me+up+if+u+wanna+work.+No+bs" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -42,7 +42,6 @@
 
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" />
   </a>
   <a href="https://www.instagram.com/swrlzxx" target="_blank">

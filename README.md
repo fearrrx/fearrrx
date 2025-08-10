@@ -23,17 +23,48 @@
 ---
 
 ## 🛠 Platforms I Use
-<p align="center">
-  <img src="https://img.shields.io/badge/Codeanywhere-16181b?style=for-the-badge&logo=Codeanywhere&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/VSCode%20Web-1b1d21?style=for-the-badge&logo=visualstudiocode&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/GitHub%20Codespaces-272a30?style=for-the-badge&logo=github&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Google%20Colab-202124?style=for-the-badge&logo=googlecolab&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-42454c?style=for-the-badge&logo=google&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/ChatGPT-535863?style=for-the-badge&logo=openai&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Gemini-272a30?style=for-the-badge&logo=google&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Claude-42454c?style=for-the-badge&logoColor=d1d5db" />
-  <img src="https://img.shields.io/badge/Grok-1b1d21?style=for-the-badge&logoColor=d1d5db" />
+<p align="center" style="margin-top:20px;">
+  <a href="https://codeanywhere.com" target="_blank" title="Codeanywhere">
+    <i class="fas fa-code" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
+  <a href="https://vscode.dev" target="_blank" title="VS Code Web">
+    <i class="fas fa-laptop-code" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
+  <a href="https://github.com/features/codespaces" target="_blank" title="GitHub Codespaces">
+    <i class="fab fa-github" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
+  <a href="https://colab.research.google.com" target="_blank" title="Google Colab">
+    <i class="fab fa-google" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
+  <a href="https://aistudio.google.com" target="_blank" title="Google AI Studio">
+    <i class="fas fa-brain" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
+  <a href="https://chat.openai.com" target="_blank" title="ChatGPT">
+    <i class="fas fa-robot" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
+  <a href="https://gemini.google.com" target="_blank" title="Gemini">
+    <i class="fas fa-gem" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
+  <a href="https://claude.ai" target="_blank" title="Claude">
+    <i class="fas fa-comments" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
+  <a href="https://x.ai" target="_blank" title="Grok">
+    <i class="fas fa-rocket" style="font-size:50px;color:#d1d5db;margin:10px;"></i>
+  </a>
 </p>
+
+<!-- Hover glow effect -->
+<style>
+  i:hover {
+    color: #00ffff !important;
+    text-shadow: 0 0 10px #00ffff;
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+  }
+</style>
+
+<!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 ---
 
@@ -44,6 +75,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
+  <a href="https://discord.com/users/.fearrr" target="_blank">
     <img src="https://img.shields.io/badge/Discord-.fearrr-272a30?style=for-the-badge&logo=discord&logoColor=d1d5db" />
   </a>
   <a href="https://www.instagram.com/swrlzxx" target="_blank">

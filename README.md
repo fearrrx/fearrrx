@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 
-<h1 align="center">yo im fearrr</h1>
+<h1 align="center">yo im fearrr (aka swrlzxx) </h1>
 
 <p align="center">
   <em>17 yo. I can Graphics design, UI/Ux design, Music production, web developer, Discord Bot developer. Hit me up if you wanna work. No bs</em>

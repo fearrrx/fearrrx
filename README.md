@@ -45,11 +45,3 @@
     <img src="https://img.shields.io/badge/Instagram-@swrlzxx-1b1d21?style=for-the-badge&logo=instagram&logoColor=d1d5db" />
   </a>
 </p>
-
----
-
-## Skills ig
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=D1D5DB&center=true&vCenter=true&width=600&lines=HTML+%26+CSS;JavaScript+%26+TypeScript;React+%26+Node.js;Python;UI%2FUX+Design;Music+Production;Discord+Bot+Dev;Quantum+Computing+Enthusiast" alt="Skills Animation" />
-</p>

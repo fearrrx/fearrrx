@@ -1,9 +1,5 @@
 <!-- Profile README.md -->
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocIcwcwDfVOkvXor7yL1EW_8iWtwg9qZremeu1Fhs60uikt1qPA=s288-c-no.gif" alt="Profile GIF" width="200" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">yo im fearrr</h1>
 
 <p align="center">

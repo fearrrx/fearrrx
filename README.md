@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,python,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css,markdown,javascript,java,typescript,python,powershell,html,firebase,vercel,fastapi,flutter,jquery,react,tailwindcss,vite,threejs,vue,figma,portfolio&theme=dark" alt="Skills" />
 </p>
 
 ---
@@ -34,10 +34,23 @@
 
 ---
 
-<h1>📌 Current Project</h1>
-> idk none atm lmao (im bored)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fearrrx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fearrrx&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fearrrx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fearrrx&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fearrrx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=fearrrx&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <h1> Find me on</h1>
 <p align="center">

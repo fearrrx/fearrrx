@@ -1,57 +1,40 @@
-<!--
-  Hi! This is your GitHub Profile README.md
--->
-
-<h1 align="center">👋 Hey there, I'm Fearrrx!</h1>
+<!-- Profile README.md -->
 
 <p align="center">
-  <em>Sleek coder | Quantum enthusiast | Open-source lover</em>
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocIcwcwDfVOkvXor7yL1EW_8iWtwg9qZremeu1Fhs60uikt1qPA=s288-c-no" alt="Profile GIF" width="200" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">yo im fearrr</h1>
+
+<p align="center">
+  <em>17 yo. I can Graphics design, UI/Ux design, Music production, web developer, Discord Bot developer. Hit me up if you wanna work. No bs</em>
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/fearrrx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-fearrrx-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/fearrrx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-fearrrx-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-fearrrx%40email.com-red?style=for-the-badge&logo=gmail" alt="Email Badge" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer exploring the realms of quantum computing, AI, and open-source projects.  
-I love creating clean, sleek interfaces and diving deep into cutting-edge tech.
 
 ## 💻 Tech Stack
 
-| Languages       | Tools & Frameworks         | Platforms          |
-| --------------- | --------------------------| ------------------ |
-| JavaScript, Python, C++ | React, Node.js, Flask | GitHub, VSCode, Docker |
+| Languages / Tools | Platforms |
+| ----------------- | --------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,python,nodejs" /> | <img src="https://img.shields.io/badge/Codeanywhere-181717?style=for-the-badge&logo=Codeanywhere&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode%20Web-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge" /> <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge" /> |
 
-## 🌌 Current Project
+---
 
-> **Quantum AI Chatbot** — Building an ultra-smart AI that integrates quantum computing principles.  
-> [Check it out!](https://github.com/fearrrx/quantum-ai-chatbot)
+## 📌 Current Project
+> **idk none atm lmao**
 
 ---
 
 ## 📫 Connect with Me
 
-Feel free to reach out or follow me on:
-
-- [GitHub](https://github.com/fearrrx)
-- [LinkedIn](https://linkedin.com/in/fearrrx)
-- [Twitter](https://twitter.com/fearrrx)
-- [Personal Website](https://yourwebsite.com)
+<p>
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-.fearrr-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/swrlzxx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@swrlzxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 

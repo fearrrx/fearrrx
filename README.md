@@ -35,16 +35,16 @@
 ---
 
 <h1>📌 Current Project</h1>
-> **idk none atm lmao**
+> idk none atm lmao (im bored)
 
 ---
 
 <h1> Find me on</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Discord-.fearrr-272a30?style=for-the-badge&logo=discord&logoColor=d1d5db" />
+    <img src="https://img.shields.io/badge/Discord-.fearrr-272a30?style=for-the-badge&logo=discord" />
   </a>
   <a href="https://www.instagram.com/swrlzxx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@swrlzxx-1b1d21?style=for-the-badge&logo=instagram&logoColor=d1d5db" />
+    <img src="https://img.shields.io/badge/Instagram-@swrlzxx-1b1d21?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 

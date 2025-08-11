@@ -1,5 +1,11 @@
 <!-- Profile README.md -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=fearrrx&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
+
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=500&lines=yo+im+fearrr;Graphics+Designer;UI%2FUX+Designer;Music+Producer;Web+Developer;Discord+Bot+Developer" alt="Typing Animation" />
 </p>
@@ -35,12 +41,34 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fearrrx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fearrrx&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fearrrx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=fearrrx&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&border_radius=25&card_width=500" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearrrx&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&border_radius=25&card_width=500" />
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=fearrrx&theme=radical&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=25" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fearrrx&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=true&border_radius=25" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fearrrx&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -50,7 +78,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fearrrx&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 
 <h1> Find me on</h1>
 <p align="center">
@@ -60,17 +88,8 @@
     <img src="https://img.shields.io/badge/Instagram-@swrlzxx-1b1d21?style=for-the-badge&logo=instagram" />
   </a>
 </p>
+<div align="center">
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer)
 
-<!-- ======= Footer wave animation (GitHub-friendly SVG) ======= -->
-<div align="center" style="line-height:0;">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="90">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0%" stop-color="#0b1224"/>
-        <stop offset="100%" stop-color="#131827"/>
-      </linearGradient>
-    </defs>
-
-  </svg>
 </div>

@@ -1,10 +1,8 @@
 <!-- Profile README.md -->
-
+<div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=fearrrx&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
-
-
-
-
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=500&lines=yo+im+fearrr;Graphics+Designer;UI%2FUX+Designer;Music+Producer;Web+Developer;Discord+Bot+Developer" alt="Typing Animation" />
@@ -25,7 +23,7 @@
 
 ---
 
-<h1>I use these platforms lol</h1>
+<h1 align="center">I use these platforms lol</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Codeanywhere-16181b?style=for-the-badge&logo=Codeanywhere&logoColor=d1d5db" />
   <img src="https://img.shields.io/badge/VSCode%20Web-1b1d21?style=for-the-badge&logo=visualstudiocode&logoColor=d1d5db" />
@@ -40,8 +38,7 @@
 
 ---
 
-# 📊 GitHub Stats:
-
+<h1 align="center"> 📊 GitHub Stats: </h1>
 
 <div align="center">
 <table>
@@ -64,23 +61,23 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fearrrx&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=true&border_radius=25" />
 </div>
 
-
-## 🏆 GitHub Trophies
+<div align="center">
+  <h1 align="center"> 🏆 GitHub Trophies </h1>
+  
 ![](https://github-profile-trophy.vercel.app/?username=fearrrx&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
+<h1 align="center"> ✍️ Random Dev Quote </h1>
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
+<h1 align="center"> Top Contributed Repo </h1>
+
 ![](https://github-contributor-stats.vercel.app/api?username=fearrrx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=fearrrx&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-<h1> Find me on</h1>
+
+<h1 align="center"> Find me on</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Discord-.fearrr-272a30?style=for-the-badge&logo=discord" />
   </a>
